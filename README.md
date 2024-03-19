@@ -3,11 +3,9 @@
 
 Análise de Sentimentos com Language Studio no Azure AI
 
-Para ultilizar o recurso é nessesario entra em portal que dá acesso as diversas ferramentas de analise se audio em sentimento o endereço é : https://speech.microsoft.com login e senha mesma de azure 
+ultilizar o recurso é nessesario entra em portal azure , em todos os serviços ,seleciar Language e clicar em criar .
 
-
-Logo apos é nessesario criar ou selecionar o repositorio para ser guardado informações então vá em configurações,criar no recurso ,preencha o com o nome e selecione qual assinatura estara e clique em criar .
-
+Logo apos é nessesario selecionar nome ,assinarura,  o valor que seja cobrado e criar novamente 
 
 Passo a Passo de uso de Language Studio 
 
